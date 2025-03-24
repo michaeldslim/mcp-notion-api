@@ -1,0 +1,14 @@
+{
+  "name": "notion-database-viewer",
+  "version": "1.0.0",
+  "description": "Notion 데이터베이스 항목 조회 애플리케이션",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^16.3.1"
+  },
+  "type": "module"
+}
