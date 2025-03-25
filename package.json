@@ -1,7 +1,7 @@
 {
   "name": "notion-database-viewer",
   "version": "1.0.0",
-  "description": "Notion 데이터베이스 항목 조회 애플리케이션",
+  "description": "Notion API to create content blocks",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
